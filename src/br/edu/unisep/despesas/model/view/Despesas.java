@@ -1,4 +1,4 @@
-package br.edu.unisep.despesas.model;
+package br.edu.unisep.despesas.model.view;
 
 public class Despesas {
 

@@ -1,4 +1,7 @@
-package br.edu.unisep.despesas.model;
+package br.edu.unisep.despesas.model.model;
+
+import br.edu.unisep.despesas.model.view.Despesas;
+import br.edu.unisep.despesas.model.view.Pessoa;
 
 import javax.swing.*;
 
